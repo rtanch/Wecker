@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="select a sound"
+        android:summary="select the kind of sound which should be played if an alarm goes off "
+        android:key="selectType"
+        android:defaultValue="1"
+        android:entries="@array/ringtone_select"
+        android:entryValues="@array/listValues"/>
+
+</PreferenceScreen>

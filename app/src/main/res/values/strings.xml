@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Alarm</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="ringtone_repeatance">
+        <item>Every Sunday</item>
+        <item>Every Monday</item>
+        <item>Every Tuesday</item>
+        <item>Every Wednesday</item>
+        <item>Every Thurstday</item>
+        <item>Every Friday</item>
+        <item>Every Saturday</item>
+    </string-array>
+
+    <string-array name="ringtone_select">
+        <item>games_of_thrones</item>
+        <item>star_wars</item>
+        <item>super_mario_bros</item>
+        <item>whatsapp_remix</item>
+        <item>trump</item>
+        <item>saxy</item>
+    </string-array>
+
+    <string-array name="listValues">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="ringtone_repeatance_shortcuts">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tues</item>
+        <item>Wen</item>
+        <item>Thurs</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+
+</resources>
+
+
+<!--<string-array name="ringtone_repeatance">-->
+<!--<item>Every Monday</item>-->
+<!--<item>Every Tuesday</item>-->
+<!--<item>Every Wednesday</item>-->
+<!--<item>Every Thurstday</item>-->
+<!--<item>Every Friday</item>-->
+<!--<item>Every Saturday</item>-->
+<!--<item>Every Sunday</item>-->
+<!--</string-array>-->
+
+<!--<string-array name="ringtone_repeatance_shortcuts">-->
+<!--<item>Mon</item>-->
+<!--<item>Tues</item>-->
+<!--<item>Wen</item>-->
+<!--<item>Thurs</item>-->
+<!--<item>Fri</item>-->
+<!--<item>Sat</item>-->
+<!--<item>Sun</item>-->
+<!--</string-array>-->

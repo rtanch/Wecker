@@ -1,0 +1,30 @@
+<resources>
+
+    <!--&lt;!&ndash; Text &ndash;&gt;-->
+    <!--<dimen name="dimenTextPrimary"></dimen>-->
+    <!--<dimen name="dimenTextSecondary"></dimen>-->
+
+    <!--&lt;!&ndash; Margin, Padding &ndash;&gt;-->
+    <!--<dimen name="dimenLayoutMarginTop"></dimen>-->
+    <!--<dimen name="dimenLayoutMarginBottom"></dimen>-->
+    <!--<dimen name="dimenLayoutMarginLeft"></dimen>-->
+    <!--<dimen name="dimenLayoutMarginRight"></dimen>-->
+
+    <!--<dimen name="dimenListElementMarginTop"></dimen>-->
+    <!--<dimen name="dimenListElementMarginBottom"></dimen>-->
+    <!--<dimen name="dimenListElementMarginLeft"></dimen>-->
+    <!--<dimen name="dimenListElementMarginRight"></dimen>-->
+
+    <!--&lt;!&ndash; Container &ndash;&gt;-->
+    <!--<dimen name="dimenTextViewWidth"></dimen>-->
+    <!--<dimen name="dimenTextViewHeight"></dimen>-->
+
+    <!--<dimen name="dimenListViewWidth"></dimen>-->
+    <!--<dimen name="dimenListViewHeight"></dimen>-->
+
+    <!-- Buttons -->
+    <!--<dimen name="dimenFabMargin">16dp</dimen>-->
+    <dimen name="dimenFabButton">60dp</dimen>
+
+
+</resources>

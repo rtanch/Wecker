@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#000080</color>
+    <color name="colorAccent">#ffff8800</color>
+
+    <!--<color name="colorFabButton"></color>-->
+    <!--<color name="colorIcon">#FFFFFF</color>-->
+
+    <!--<color name="colorHeadline">#000000</color>-->
+    <!--<color name="colorTextPrimary">#000000</color>-->
+    <!--<color name="colorTextSecondary"></color>-->
+
+    <color name="colorBackground">#FFFFFF</color>
+
+    <!--<color name="colorLayoutPrimary"></color>-->
+    <!--<color name="colorLayoutSecondary"></color>-->
+    <!--<color name="colorLayoutHighlight"></color>-->
+
+    <!--<color name="colorToolbar"></color>-->
+
+    <!--<color name="colorDivider"></color>-->
+
+</resources>
